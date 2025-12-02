@@ -79,7 +79,7 @@ A passionate software engineer focused on building reliable applications, clean 
 ---
 
 # Fun Fact
-“Debugging is like being a detective in a crime movie where you’re also the murderer.” 🔍
+“Debugging is like being a detective in a crime movie where you’re also the murderer.” 
 
 ---
 
