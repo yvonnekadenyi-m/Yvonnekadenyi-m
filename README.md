@@ -2,7 +2,7 @@
 <p align="center">
   <p align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Tommy+Muia;I+Build+Systems+and+Web+Applications;Welcome+to+My+GitHub+Space" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Yvonne+Kadenyi;I+Build+Systems+and+Web+Applications;Welcome+to+My+GitHub+Space" />
 </p>
 
 
