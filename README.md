@@ -22,7 +22,7 @@ I'm a Full-Stack Software Engineer with hands-on experience building responsive 
 - 🔭 Currently working on full-stack web applications
 - 🌱 Learning advanced Python techniques and modern web frameworks
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about Python, Flask, FastAPI, React, or web development
+- 💬 Ask me about Python, Flask, FastAPI, React or web development
 - 📫 Reach me at: kadenyimasheti@gmail.com
 - 🌐 Portfolio: [View My Work]( https://portfolio-website-kohl-kappa-58.vercel.app)
 
@@ -87,7 +87,7 @@ I'm a Full-Stack Software Engineer with hands-on experience building responsive 
 
 <div align="center">
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate!
+I'm always open to discussing new projects, creative idea or opportunities to collaborate!
 
 📧 **Email:** [kadenyimasheti@gmail.com](mailto:kadenyimasheti@gmail.com)  
 💼 **LinkedIn:** [Yvonne Kadenyi](https://www.linkedin.com/in/yvonne-kadenyi-b4377a233)  
