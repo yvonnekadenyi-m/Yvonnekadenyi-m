@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Yvonne Kadenyi! 👋
+# Hi there, I'm Yvonne Kadenyi
 
 ### Full-Stack Software Engineer | Problem Solver | Continuous Learner
 
 *Passionate about building efficient, user-friendly applications that solve real-world problems*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-grkj1nhop-yvonne-kadenyis-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]( https://portfolio-website-kohl-kappa-58.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-kadenyi-b4377a233)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadenyimasheti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yvonnekadenyi-m)
@@ -24,7 +24,7 @@ I'm a Full-Stack Software Engineer with hands-on experience building responsive 
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about Python, Flask, FastAPI, React, or web development
 - 📫 Reach me at: kadenyimasheti@gmail.com
-- 🌐 Portfolio: [View My Work](https://portfolio-website-grkj1nhop-yvonne-kadenyis-projects.vercel.app/)
+- 🌐 Portfolio: [View My Work]( https://portfolio-website-kohl-kappa-58.vercel.app)
 
 ---
 
@@ -91,7 +91,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 📧 **Email:** [kadenyimasheti@gmail.com](mailto:kadenyimasheti@gmail.com)  
 💼 **LinkedIn:** [Yvonne Kadenyi](https://www.linkedin.com/in/yvonne-kadenyi-b4377a233)  
-🌐 **Portfolio:** [View My Work](https://portfolio-website-grkj1nhop-yvonne-kadenyis-projects.vercel.app/)  
+🌐 **Portfolio:** [View My Work]( https://portfolio-website-kohl-kappa-58.vercel.app)  
 🐱 **GitHub:** [@yvonnekadenyi-m](https://github.com/yvonnekadenyi-m)
 
 ---
